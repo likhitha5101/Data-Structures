@@ -1,0 +1,51 @@
+Enter Name: Kumar
+
+Enter Name: Anusha
+
+Enter Name: Ram
+
+Enter Name: Charan
+
+Enter Name: Mohan
+
+Enter Name: Karthika
+
+Enter Name: Chitra
+
+Enter Name: Lakshmi
+
+Enter Name: Abishek
+
+Enter Name: Swetha
+
+Enter Name: Tarun
+
+Enter Name: Sanjana
+
+Enter Name: 0
+
+DISPLAYING IN ALPHABETICAL ORDER...
+ Abishek    Anusha    Charan    Chitra    Karthika    Kumar    Lakshmi    Mohan    Ram    Sanjana    Swetha    Tarun
+
+Enter a name to find Grandparent: Lakshmi
+
+Grandparent of Lakshmi is Ram
+
+Enter a name to find Grandparent: Karthika
+
+Grandparent of Karthika is Anusha
+
+Enter a name to find Grandchildren: Charan
+Chitra
+
+Enter a name to find sibling: Swetha
+
+ Mohan
+
+Enter a name to find sibling: Chitra
+
+Enter a name to Delete: Ram
+
+Inorder traversal of tree after deletion...
+
+ Abishek    Anusha    Charan    Chitra    Karthika    Kumar    Lakshmi    Mohan    Sanjana    Swetha    Tarun

@@ -1,0 +1,269 @@
+Enter English word: Algorithm
+Enter its Tamil meaning: நெறிமுறை
+Enter its Hindi meaning: कलनविधि
+
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+
+
+Enter English word: Animation
+Enter its Tamil meaning: அசைவூட்டம்
+Enter its Hindi meaning:  एनीमेशन
+
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+
+
+Enter English word: Bit
+Enter its Tamil meaning: நுண்மி
+Enter its Hindi meaning: बिट
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+
+
+Enter English word: Browser
+Enter its Tamil meaning: உலாவி
+Enter its Hindi meaning: ब्राउज़र
+
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+
+
+Enter English word: Clipboard
+Enter its Tamil meaning: மறைப்பலகை
+Enter its Hindi meaning: कर्तनपट्ट
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+
+
+Enter English word: Compiler
+Enter its Tamil meaning: தொகுப்பி
+Enter its Hindi meaning: संकलक
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit		  	நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+
+
+Enter English word: Digital
+Enter its Tamil meaning: எண்மின்
+Enter its Hindi meaning: डिजिटल
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+
+
+Enter English word: Printer
+Enter its Tamil meaning: அச்சுப்பொறி
+Enter its Hindi meaning: छापनेवालायंत्र
+
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit 		 	நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital 	 	எண்மின்		डिजिटल
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: Encoding
+Enter its Tamil meaning: குறியாக்கம்
+Enter its Hindi meaning: संकेतीकरण
+
+Performing Double Rotate with right.....
+Performing Single Rotate with left.....
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+Enter English word: Gateway
+Enter its Tamil meaning: நுழைவாயில்
+Enter its Hindi meaning: प्रवेशद्वार
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: Hardware
+Enter its Tamil meaning: வன்பொருள்
+Enter its Hindi meaning:  हार्डवेयर
+
+Performing Double Rotate with left.....
+Performing Single Rotate with right.....
+Performing Single Rotate with left.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Hardware  	வன்பொருள்	 हार्डवेयर
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: Internet
+Enter its Tamil meaning: இணையம்
+Enter its Hindi meaning: अंतराजाल
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Hardware  	வன்பொருள்	 हार्डवेयर
+ Internet  	இணையம்	अंतराजाल
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: Memory
+Enter its Tamil meaning: நினைவகம்
+Enter its Hindi meaning: याददाश्त
+
+Performing Double Rotate with left.....
+Performing Single Rotate with right.....
+Performing Single Rotate with left.....
+
+English		Tamil		Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Hardware  	வன்பொருள்	 हार्डवेयर
+ Internet  	இணையம்	अंतराजाल
+ Memory  	நினைவகம்	याददाश्त
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: Monitor
+Enter its Tamil meaning: கணித்திரை
+Enter its Hindi meaning: मॉनिटर
+
+Performing Single Rotate with right.....
+
+English		Tamil		Hindi
+Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Hardware  	வன்பொருள்	 हार्डवेयर
+ Internet  	இணையம்	अंतराजाल
+ Memory  	நினைவகம்	याददाश्त
+ Monitor  	கணித்திரை	मॉनिटर
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+Enter English word: Password
+Enter its Tamil meaning: கடவுச்சொல்
+Enter its Hindi meaning:  संकेत-शब्द
+
+Performing Double Rotate with left.....
+Performing Single Rotate with right.....
+Performing Single Rotate with left.....
+
+English		Tamil			Hindi
+ Algorithm  	நெறிமுறை	कलनविधि
+ Animation  	அசைவூட்டம்	 एनीमेशन
+ Bit  		நுண்மி		बिट
+ Browser  	உலாவி		ब्राउज़र
+ Clipboard  	மறைப்பலகை	कर्तनपट्ट
+ Compiler  	தொகுப்பி	संकलक
+ Digital  		எண்மின்		डिजिटल
+ Encoding  	குறியாக்கம்	संकेतीकरण
+ Gateway  	நுழைவாயில்	प्रवेशद्वार
+ Hardware  	வன்பொருள்	 हार्डवेयर
+ Internet  	இணையம்	अंतराजाल
+ Memory  	நினைவகம்	याददाश्त
+ Monitor  	கணித்திரை	मॉनिटर
+ Password  	கடவுச்சொல்	 संकेत-शब्द
+ Printer  	அச்சுப்பொறி	छापनेवालायंत्र
+
+
+Enter English word: 0
+
+Find meaning of: Encoding
+Word: Encoding
+Tamil: குறியாக்கம்
+Hindi: संकेतीकरण
+
+Find meaning of: Internet
+Word: Internet
+Tamil: இணையம்
+Hindi: अंतराजाल
+
+Find meaning of: 0

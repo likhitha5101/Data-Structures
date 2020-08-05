@@ -1,0 +1,83 @@
+Enter no of Vertices: 5
+
+Enter vertex: A
+
+Enter Adjacency list of A (*-stop):
+B
+C
+E
+*
+
+Enter vertex: B
+Enter Adjacency list of B (*-stop):
+A
+D
+E
+*
+
+Enter vertex: C
+
+Enter Adjacency list of C (*-stop):
+A
+*
+
+Enter vertex: D
+
+Enter Adjacency list of D (*-stop):
+B
+*
+
+Enter vertex: E
+
+Enter Adjacency list of E (*-stop):
+A
+B
+*
+
+Depth first search
+A       B       D       E       C
+
+Breadth first search
+A       B       C       E       D
+
+Do you want to continue(1-yes/0-no): 1
+
+Enter no of Vertices: 5
+
+Enter vertex: 0
+
+Enter Adjacency list of 0 (*-stop):
+1
+*
+
+Enter vertex: 1
+Enter Adjacency list of 1 (*-stop):
+2
+*
+
+Enter vertex: 2
+
+Enter Adjacency list of 2 (*-stop):
+3
+4
+*
+
+Enter vertex: 3
+
+Enter Adjacency list of 3 (*-stop):
+0
+*
+
+Enter vertex: 4
+
+Enter Adjacency list of 4 (*-stop):
+2
+*
+
+Depth first search
+0       1       2       3       4
+
+Breadth first search
+0       1       2       3       4
+
+Do you want to continue(1-yes/0-no): 0

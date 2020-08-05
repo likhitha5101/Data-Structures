@@ -1,0 +1,48 @@
+Enter no. of jobs: 10
+Job Number: 1
+Burst Time: 6
+ 
+Waiting time Q1:6 Q2:0
+Job Number: 2
+Burst Time: 5
+ 
+Waiting time Q1:6 Q2:5
+Job Number: 3
+Burst Time: 2
+ 
+Waiting time Q1:6 Q2:7
+Job Number: 4
+Burst Time: 3
+ 
+Waiting time Q1:9 Q2:7
+Job Number: 5
+Burst Time: 7
+ 
+Waiting time Q1:9 Q2:14
+Job Number: 6
+Burst Time: 3
+ 
+Waiting time Q1:12 Q2:14
+Job Number: 7
+Burst Time: 7
+ 
+Waiting time Q1:19 Q2:14
+Job Number: 8
+Burst Time: 2
+ 
+Waiting time Q1:19 Q2:16
+Job Number: 9
+Burst Time: 3
+ 
+Waiting time Q1:19 Q2:19
+Job Number: 10
+Burst Time: 7
+ 
+Waiting time Q1:26 Q2:19
+ 
+QUEUE 1 : (J1 : 6) (J4 : 3) (J6 : 3) (J7 : 7) (J10 : 7) 
+Avg waiting time: 14.40
+ 
+QUEUE 2 : (J2 : 5) (J3 : 2) (J5 : 7) (J8 : 2) (J9 : 3) 
+Avg waiting time: 12.20
+ 

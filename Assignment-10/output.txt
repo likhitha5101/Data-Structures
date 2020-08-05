@@ -1,0 +1,80 @@
+Enter the name   : Sandra
+Enter the id     : 123
+Enter the salary : 40000
+
+Queue after adding:
+Name     : Sandra
+ID       : 123
+Salary   : 40000.00
+
+Enter the name   : Aira
+Enter the id     : 156
+Enter the salary : 65000
+
+Queue after adding:
+Name     : Aira
+ID       : 156
+Salary   : 65000.00
+Name     : Sandra
+ID       : 123
+Salary   : 40000.00
+
+Enter the name   : Banu
+Enter the id     : 124
+Enter the salary : 59000
+
+Queue after adding:
+Name     : Aira
+ID       : 156
+Salary   : 65000.00
+Name     : Sandra
+ID       : 123
+Salary   : 40000.00
+Name     : Banu
+ID       : 124
+Salary   : 59000.00
+
+Enter the name   : Tina
+Enter the id     : 192
+Enter the salary : 70000
+
+Queue after adding:
+Name     : Tina
+ID       : 192
+Salary   : 70000.00
+Name     : Aira
+ID       : 156
+Salary   : 65000.00
+Name     : Banu
+ID       : 124
+Salary   : 59000.00
+Name     : Sandra
+ID       : 123
+Salary   : 40000.00
+
+Enter the name   : Sam
+Enter the id     : 164
+Enter the salary : 80000
+
+Queue after adding:
+Name     : Sam
+ID       : 164
+Salary   : 80000.00
+Name     : Tina
+ID       : 192
+Salary   : 70000.00
+Name     : Banu
+ID       : 124
+Salary   : 59000.00
+Name     : Sandra
+ID       : 123
+Salary   : 40000.00
+Name     : Aira
+ID       : 156
+Salary   : 65000.00
+
+De-Queued Element
+
+Name     : Sam
+ID       : 164
+Salary   : 80000.00

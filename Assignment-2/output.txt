@@ -1,0 +1,184 @@
+Enter no. of Records;
+2
+Record 1
+Enter Reg.No: 123
+Enter Name: Abhi
+Enter Marks in 5 subjects
+90 90 90 90 98
+Record 2
+Enter Reg.No: 125
+Enter Name: Kavya
+Enter Marks in 5 subjects
+95 90 89 97 99
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+1
+
+*****************
+New Record
+Enter Reg.No: 122
+Enter Name: Aakash
+Enter Marks in 5 subjects
+99 98 97 96 95
+
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+2
+
+*****************
+New Record
+Enter Reg.No: 126
+Enter Name: Sai
+Enter Marks in 5 subjects
+90 91 80 78 88
+
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+3
+
+*****************
+New Record
+Enter Reg.No: 124
+Enter Name: Aruhi
+Enter Marks in 5 subjects
+99 100 90 90 98
+Enter Register after which to insert:
+123
+
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+6
+
+*****************
+Reg.No  Name    Sub1    Sub2    Sub3    Sub4    Sub5
+
+122     Aakash  99      98      97      96      95
+123     Abhi    90      90      90      90      98
+124     Aruhi   99      100     90      90      98
+125     Kavya   95      90      89      97      99
+126     Sai     90      91      80      78      88
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+4
+
+*****************
+Enter Name to search: Aruhi
+Record found!!
+Reg.No: 124
+Name: Aruhi
+Marks in 5 subjects :
+99      100     90      90      98
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+5
+
+*****************
+Enter Reg.no. to delete: 125
+
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+6
+
+*****************
+Reg.No  Name    	Sub1    Sub2    Sub3    Sub4    Sub5
+
+122     Aakash 	 99  	    98       97   	   96  	      95
+123     Abhi    	90  	    90       90   	   90 	      98
+124     Aruhi   	99  	    100     90  	    90         98
+126     Sai     		90  	    91       80  	    78         88
+Do you want to continue?(y/n): y
+
+Menu
+1.Insert Front
+2.Insert End
+3.Insert Middle
+4.Search
+5.Delete a Record
+6.Display all Records
+7.Display Previous and Next
+Enter your choice(1-7):
+7
+
+*****************
+Enter Reg.no. : 124
+Previous Record
+Reg.No: 123
+Name: Abhi
+Marks in 5 subjects
+90      90      90      90      98
+
+Record
+Reg.No: 124
+Name: Aruhi
+Marks in 5 subjects
+99      100     90      90      98
+
+Next Record
+Reg.No: 126
+Name: Sai
+Marks in 5 subjects
+90      91      80      78      88
+
+Do you want to continue?(y/n): n
